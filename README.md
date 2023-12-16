@@ -24,7 +24,7 @@ The goals of this project are:
 
 ### Folder
 ```
-UR5-Pick-and-Place-Simulation/catkin_ws/
+catkin_ws/
 ├── levelManager
 ├── vision
 ├── motion_planning
