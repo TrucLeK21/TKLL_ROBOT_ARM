@@ -89,4 +89,4 @@ rosrun vision vision.py -show
 ```
 - `-show` : show the results of the recognition and localization process with an image
 ### Reference
-https://github.com/pietrolechthaler/UR5-Pick-and-Place-Simulation/tree/main/catkin_ws/src
+https://github.com/pietrolechthaler
