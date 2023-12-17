@@ -1,5 +1,5 @@
 <p align="center">
-  <h2 align="center">UR5 Object Sorting in Ros/Gazebo</h2>
+  <h2 align="center">UR5 Object Classification in Ros/Gazebo</h2>
 
   
 </p>
