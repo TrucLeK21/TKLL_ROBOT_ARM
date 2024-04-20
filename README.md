@@ -88,5 +88,3 @@ Start the localization process
 rosrun vision vision.py -show
 ```
 - `-show` : show the results of the recognition and localization process with an image
-### Reference
-https://github.com/pietrolechthaler
